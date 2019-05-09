@@ -1,4 +1,4 @@
-baseURL = "https://www.successeverytime.com/"
+baseURL = "https://successeverytime.com/"
 languageCode = "en-us"
 title = "Win & Keep"
 theme = "hugo-paper"
