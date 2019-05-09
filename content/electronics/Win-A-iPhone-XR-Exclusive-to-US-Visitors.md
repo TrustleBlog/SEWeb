@@ -10,17 +10,13 @@ permalink: Win-A-iPhone-XR-Exclusive-to-US-Visitors
 category: Electronics
 readingtime: 2 Minutes
 keywords:
-- fortnite v bucks
-- fortnight game
-- fortnite
-- free v bucks
-- win free v bucks
-- season 9 free v bucks
-- win fortnite v bucks
-- fortnite season 9
-- fortnite game
-- fortnite skins
-- ikonik skin giveaway
+- win free iphone xr
+- free iphone
+- iphone xr giveaways
+- iphone giveaway
+- Smartphone giveaway
+- phone giveaway
+- iphone cheap 
 ---
 
 Looking to purchase that expensive great looking iPhone XR? Well, why not try your luck to actually win one for free!
