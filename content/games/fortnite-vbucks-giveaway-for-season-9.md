@@ -1,5 +1,5 @@
 ---
-title: "Chance to Collect 13,500 Fortnite V-Bucks for Season 9"
+title: "Chance to Collect 13,500 Fortnite V-Bucks for Season 9 (US Only)"
 description: "Season 9 is out and that means you need V-Bucks to buy the Battle Pass or the new Skins, so here's your chance to get one!"
 date: 2019-05-09T14:39:23+08:00
 draft: false
@@ -51,4 +51,4 @@ Season 9 is here but if you do not have v-bucks then you surely won't be happy! 
 
  <hr>
 
- <small><i>This post is for the Fortnite Players who would like to purchase Fortnite Skins, Battlepass or in-game materials but do not have enough money to purchase it. Therefore, we try our best to provide you with more giveaways.</i></small>
+ {{<footer-text >}}
