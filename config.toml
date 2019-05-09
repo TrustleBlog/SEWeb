@@ -1,0 +1,19 @@
+baseURL = "https://successeverytime.com/"
+languageCode = "en-us"
+title = "Win & Keep"
+theme = "hugo-paper"
+defaultContentLanguage = "en"
+footnotereturnlinkcontents = "↩"
+metaDataFormat = "yaml"
+paginate = 5
+enableRobotsTXT = true
+type = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  description = "Daily Giveaways, Win Free Stuff such as Fortnite V-Bucks by Participating in Sweeptakes, Luckydraws or Giveaways"
+
+image = ["https://successeverytime.com/thumbnails/winkeep.png"]

@@ -1,0 +1,48 @@
+{{ partial "header.html" . }}
+
+{{ if not .IsHome }}
+<header class="page-header">
+  {{ if eq .Data.Singular "tag" }}
+  <div class="tagged">Tagged in</div>
+  <h1>{{ .Data.Term }}</h1>
+  {{ else }}
+  <h1>Posts</h1>
+  {{ end }}
+</header>
+{{ end }}
+
+{{ $paginator := .Paginate (where .Pages ".Params.type" "!=" "page") }}
+
+{{ if gt $paginator.TotalPages 0 }}
+{{ range $index, $page := $paginator.Pages }}
+<article class="{{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index false) }}first-entry{{ else }}post-entry{{ end }}">
+  <img src="{{ with .Params.image }}{{ . }}{{ end }}" />
+  <br>
+  <header class="entry-header">
+    <h1>{{ .Title }}</h1>
+  </header>
+  <section class="entry-content">
+   <p>{{ .Summary | plainify | htmlUnescape }}...</p>
+  </section>
+  <footer class="entry-footer">
+    <time ><ion-icon name="calendar"></ion-icon> {{ .Date.Format "2006.1.2" }} <ion-icon name="remove"></ion-icon> <ion-icon name="time"></ion-icon> {{ .Params.readingtime }} <ion-icon name="remove"></ion-icon> <ion-icon name="heart"></ion-icon> {{ .Params.category }}</time>
+  </footer>
+  <a class="entry-link" href="{{ .Permalink }}"></a>
+</article>
+{{ end }}
+{{ end }}
+
+{{ if gt $paginator.TotalPages 1 }}
+<footer class="page-footer">
+  <nav class="pagination">
+    {{ if $paginator.HasPrev }}
+    <a class="prev" href="{{ $paginator.Prev.URL }}">← {{ i18n "prev_page" }}</a>
+    {{ end }}
+    {{ if $paginator.HasNext }}
+    <a class="next" href="{{ $paginator.Next.URL }}">{{ i18n "next_page" }} →</a>
+    {{ end }}
+  </nav>
+</footer>
+{{ end }}
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Trustle</title>
+    <link>https://thetrustle.com/tags/personal/</link>
+    <description>Recent content in Personal on Trustle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Apr 2019 14:39:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://thetrustle.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Naruto Taught Me</title>
+      <link>https://thetrustle.com/anime/what-naruto-taught-me/</link>
+      <pubDate>Sat, 27 Apr 2019 14:39:23 +0800</pubDate>
+      
+      <guid>https://thetrustle.com/anime/what-naruto-taught-me/</guid>
+      <description>&lt;p&gt;I began watching Naruto in 2019 — It was the best decision I ever made.  📺&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

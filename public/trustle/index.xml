@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trustles on Trustle</title>
+    <link>https://thetrustle.com/trustle/</link>
+    <description>Recent content in Trustles on Trustle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2019 10:39:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://thetrustle.com/trustle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://thetrustle.com/trustle/about-us/</link>
+      <pubDate>Sat, 20 Apr 2019 10:39:23 +0800</pubDate>
+      
+      <guid>https://thetrustle.com/trustle/about-us/</guid>
+      <description>&lt;figure&gt;&lt;a href=&#34;https://unsplash.com/photos/GCHoNu9yQDw&#34;&gt;
+    &lt;img src=&#34;https://images.unsplash.com/photo-1459993333291-0ef79aed272b?ixlib=rb-1.2.1&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=3161&amp;amp;q=80&#34;
+         alt=&#34;A beautfil Building, just like Trustle.&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;h4&gt;A beautfil Building, just like Trustle.&lt;/h4&gt;&lt;p&gt;
+                    &lt;a href=&#34;https://unsplash.com/@grantlemons&#34;&gt;Source: © grantlemons&lt;/a&gt;&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;b&gt;Trustle&lt;/b&gt; is where we write blogs about different things. For example cooking tips, great recipes, fitness hacks, game suggestions &amp;amp; product reviews.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy of Trustle</title>
+      <link>https://thetrustle.com/trustle/privacy-policy/</link>
+      <pubDate>Sat, 20 Apr 2019 10:39:23 +0800</pubDate>
+      
+      <guid>https://thetrustle.com/trustle/privacy-policy/</guid>
+      <description>Trustle operates the https://thetrustle.com/ website, which provides the SERVICE.
+This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Trustle website.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service.</description>
+    </item>
+    
+    <item>
+      <title>Terms &amp; Conditions</title>
+      <link>https://thetrustle.com/trustle/tos/</link>
+      <pubDate>Sat, 20 Apr 2019 10:39:23 +0800</pubDate>
+      
+      <guid>https://thetrustle.com/trustle/tos/</guid>
+      <description>Welcome to Trustle!
+These terms and conditions outline the rules and regulations for the use of Trustle&#39;s Website, located at https://thetrustle.com/.
+By accessing this website we assume you accept these terms and conditions. Do not continue to use Trustle if you do not agree to take all of the terms and conditions stated on this page. The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: &#34;</description>
+    </item>
+    
+  </channel>
+</rss>

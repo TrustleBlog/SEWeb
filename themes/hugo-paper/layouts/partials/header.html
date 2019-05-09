@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="p:domain_verify" content="1528a67144e1b3e7f5ed331190dc7263"/>
+    <meta content="{{ delimit .Keywords ", " }}" name="keywords">
+    <meta name="propeller" content="f9f8341137ff983bd05218857b214243">
+    <!-- Title -->
+    <title>
+      {{- if not .IsHome }}
+      {{- if eq .Kind "page" }}{{ .Title }}
+      {{- else if eq .Data.Singular "tag" }}{{ .Data.Term }}
+      {{- else }}Posts
+      {{- end }} - {{ end }}
+      {{- .Site.Title -}}
+    </title>
+    <!-- Button -->
+    <style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid #f38181;
+  width: 100%;
+  text-transform: uppercase;
+  border-radius: 4px;
+  font-size: 20px;
+  font-family: inherit;
+  font-weight: bold;
+}
+
+.button1 {
+  background-color: #f38181;
+  color: white;
+  border: 2px solid #f18c8e;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+  width: 100%;
+  text-transform: uppercase;
+  border-radius: 4px;
+  font-size: 20px;
+  font-family: inherit;
+  font-weight: bold;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+  border: 2px solid #008CBA;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.button3:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid #f44336;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.button3 {
+  background-color: #f44336;
+  color: white;
+  width: 100%;
+  text-transform: uppercase;
+  border-radius: 4px;
+  font-size: 20px;
+  font-family: inherit;
+  font-weight: bold;
+}
+
+.button4 {
+  background-color: white;
+  color: black;
+  border: 2px solid #e7e7e7;
+}
+
+.button4:hover {background-color: #e7e7e7;}
+
+.button5:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.button5 {
+  background-color: #555555;
+  color: white;
+  width: 100%;
+  text-transform: uppercase;
+  border-radius: 4px;
+  font-size: 20px;
+  font-family: inherit;
+  font-weight: bold;
+}
+</style>
+    <!-- Meta -->
+    {{- if eq .Kind "page" }}
+    <meta name="description" content="{{ .Summary }}">
+    <meta name="author" content="{{ .Params.author | default .Site.Params.author }}">
+    {{ else }}
+    <meta name="description" content="{{ .Site.Params.description }}">
+    <meta name="author" content="{{ .Site.Params.author }}">
+
+    {{ end -}}
+    <!-- Styles -->
+    <link href="{{.Site.BaseURL}}css/github-gist.min.css" rel="stylesheet">
+    <link href="{{.Site.BaseURL}}css/style.css" rel="stylesheet">
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="https://i.imgsafe.org/57/575d6e4f62.png">
+    <link rel="icon" href="https://i.imgsafe.org/57/575d6e14f1.png">
+    <!-- Generator -->
+    {{ .Hugo.Generator }}
+    <!-- RSS -->
+    <link rel="alternate" type="application/atom+xml" href="{{.Site.BaseURL}}index.xml" title="{{ .Site.Title }}">
+    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
+    {{ template "_internal/google_analytics_async.html" . }}
+    {{ end }}
+    {{ partial "header-include.html" . }}
+    <!-- Twitter -->
+    {{ partial "twitter-card" . }}
+<!-- ionic icons -->
+<script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
+  </head>
+  <body class="{{if eq .Kind `page` }}single{{else}}list{{ if .IsHome }} home{{ end }}{{end}}">
+    <header class="header">
+      <div class="wrap">
+        {{ if .IsHome }}
+        <h1 class="logo"><a href="{{.Site.BaseURL}}">{{ .Site.Title }} </a></h1>
+        {{ else }}
+        <p class="logo"><a href="{{.Site.BaseURL}}">{{ .Site.Title }} </a></p>
+        {{ end }}
+        <button class="menu-toggle" type="button"></button>
+      </div>
+    </header>
+    <nav class="nav">
+    <ul class="menu">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+      <li class="{{ if $currentPage.IsMenuCurrent `main` . }}active{{ end }}">
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      </li>
+      {{ end }}
+      <a href="/tags/giftcards">Gift Cards</a>
+        <a href="/tags/fortnite">Fortnite V-Bucks</a>
+      <a href="/tags/electronics">Electronics</a>
+      <a href="/tags/subscriptions">Subscriptions</a>
+      <a href="/tags/others">Others</a>
+    </ul>
+    </nav>
+    <main class="main">
