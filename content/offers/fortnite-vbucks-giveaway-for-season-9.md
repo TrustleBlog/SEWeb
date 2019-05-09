@@ -30,7 +30,7 @@ Season 9 is here but if you do not have v-bucks then you surely won't be happy! 
 ## Fortnite V-Bucks Giveaway (US Only)
 
 {{< figure
-    src="https://successeverytime.com/thumbnails/13,500.png"
+    src="https://www.successeverytime.com/thumbnails/13,500.png"
     link="http://bit.ly/2WxikTp"
     alt="Fortnite V-Bucks Giveaways are always happening."
     title="Enter To Collect Yours"
