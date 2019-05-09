@@ -4,7 +4,7 @@ description: "Season 9 is out and that means you need V-Bucks to buy the Battle 
 date: 2019-05-09T14:39:23+08:00
 draft: false
 tags: ["Fortnite", "Sweeptakes"]
-image: "https://thetrustle.com/thumbnails/13,500.png"
+image: "https://www.successeverytime.com/thumbnails/13,500.png"
 author: "Yenny"
 permalink: Chance-to-Collect-Fortnite-V-Bucks-for-Season-9
 category: Fortnite
