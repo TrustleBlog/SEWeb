@@ -3,7 +3,7 @@ title: "Win an iPhone XR! (US Only)"
 description: "Looking to purchase that expensive great looking iPhone XR? Well, why not try your luck to actually win one for free!"
 date: 2019-05-07T2:39:23+08:00
 draft: false
-tags: ["Smartphones", "Sweeptakes", "Electronics"]
+tags: ["Smartphones", "Sweeptakes", "Electronics", "US"]
 image: "https://www.successeverytime.com/thumbnails/iphoneXRUSA.png"
 author: "Yenny"
 permalink: Win-A-iPhone-XR-Exclusive-to-US-Visitors
@@ -16,7 +16,7 @@ keywords:
 - iphone giveaway
 - Smartphone giveaway
 - phone giveaway
-- iphone cheap 
+- iphone cheap
 ---
 
 Looking to purchase that expensive great looking iPhone XR? Well, why not try your luck to actually win one for free!
