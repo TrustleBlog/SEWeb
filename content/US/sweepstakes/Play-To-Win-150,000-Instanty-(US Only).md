@@ -3,7 +3,7 @@ title: "Play for a Chance to Win $150,000 in Cash Instanty"
 description: "Do you have a minute? This is once a lifetime opportunity to win yourself hundreds of dollars to purchase your dream item or just to enjoy."
 date: 2019-05-11T15:39:23+08:00
 draft: false
-tags: [Sweeptakes", "US"]
+tags: ["Sweeptakes", "US"]
 image: "https://www.successeverytime.com/thumbnails/150KCash.png"
 author: "Yenny"
 permalink: Play-To-Win-150,000-Instanty-(US Only)
