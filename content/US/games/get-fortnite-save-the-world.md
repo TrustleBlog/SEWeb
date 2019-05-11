@@ -4,7 +4,7 @@ description: "Save The World mode is a really fun mode in Fortnite but the drawb
 date: 2019-05-11T8:39:23+08:00
 draft: false
 tags: ["Fortnite", "Sweeptakes", "US"]
-image: "https://www.successeverytime.com/thumbnails/13,500.png"
+image: "https://www.successeverytime.com/thumbnails/STW.png"
 author: "Yenny"
 permalink: Get-Fortnite-Save-The-World
 category: Fortnite
