@@ -27,7 +27,7 @@ Do you have a minute? This is once a lifetime opportunity to win yourself hundre
 
 {{< figure
     src="https://www.successeverytime.com/thumbnails/150KCash.png"
-    link="http://bit.ly/2JsUR1U"
+    link="https://www.mb01.com/lnk.asp?o=10547&c=918277&a=383461&k=2D6FD9CDF7A363E89F5C8ED9CEA3AF61&l=10409&s1=SE "
     alt="Play for a Chance to Win $150,000 in Cash Instantly"
     title="Play To Win Cash"
     attr="Source: © Success Everytime"
@@ -39,7 +39,7 @@ Do you have a minute? This is once a lifetime opportunity to win yourself hundre
 
  1. Please VERIFY that you are a <b>US</b> Citizen.
  2. Age of 18+.
- 3. <b><a href="http://bit.ly/2JsUR1U">Click here</a></b> to enter.  
+ 3. <b><a href="https://www.mb01.com/lnk.asp?o=10547&c=918277&a=383461&k=2D6FD9CDF7A363E89F5C8ED9CEA3AF61&l=10409&s1=SE ">Click here</a></b> to enter.  
 
  {{< TextAds >}}
 
