@@ -34,7 +34,7 @@ Save The World mode is a really fun mode in Fortnite but the drawback is that it
 
 {{< figure
     src="https://www.successeverytime.com/thumbnails/STW.png"
-    link="http://bit.ly/2VfuIpq"
+    link="https://www.mb103.com/lnk.asp?o=12872&c=918277&a=383461&k=05CCF543E131137BD59776F51481F777&l=13342&s1=SE"
     alt="Fortnite V-Bucks Giveaways are always happening."
     title="Enter To Collect Yours"
     attr="Source: © Success Everytime"
@@ -46,7 +46,7 @@ Save The World mode is a really fun mode in Fortnite but the drawback is that it
 
  1. Please VERIFY that you are a <b>US</b> Citizen.
  2. Age of 18+.
- 3. <b><a href="http://bit.ly/2VfuIpq">Click here</a></b> to enter.  
+ 3. <b><a href="https://www.mb103.com/lnk.asp?o=12872&c=918277&a=383461&k=05CCF543E131137BD59776F51481F777&l=13342&s1=SE">Click here</a></b> to enter.  
 
  {{< TextAds >}}
 
