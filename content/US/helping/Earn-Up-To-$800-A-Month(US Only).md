@@ -21,9 +21,9 @@ keywords:
 
 Are you jobless? Looking for a job? A student who has a lot of free time but want to buy items like a PS4 or an iPhone? Well, here's a way for you to earn $800 a month doing simple tasks! 🙋‍♀️
 
-You don't believe me? I'm sure that you won't be disappointed! 🙃
-
 <!--more-->
+
+You don't believe me? I'm sure that you won't be disappointed! 🙃
 
 It only allows <b>200</b> people to join every 24 Hours! Hurry up. 💰 (No need to spend any money to join, it's completely free and safe.)
 
