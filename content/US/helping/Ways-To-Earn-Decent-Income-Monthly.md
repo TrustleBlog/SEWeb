@@ -28,7 +28,10 @@ My all recommendations to start making decent cash online, the easiest ways to m
 * <b><a href="https://www.mb102.com/lnk.asp?o=14666&c=918277&a=383461&k=0EE0938BF015085CD9AEC2DC0F41C47A&l=15879&s1=SE">Do Simple Tasks, Get Paid</a></b> (Very Trusted)
 
 ### Best Paid Programs to start earning BIG MONEY!
-* <b><a href="https://9f0a7d0fqdwe6x98pfz51z0m72.hop.clickbank.net/">Clickbank University</a></b> (Very Trusted)
+* <b><a href="https://f0e3cc9cp70mdn3-gpzg4t5r5h.hop.clickbank.net/?tid=SE">Clickbank University</a></b> (Very Trusted)
+* <b><a href="https://b5f549-an1tnevd737ikucf29l.hop.clickbank.net/?tid=SE">Get Paid For Your Opinions (2019)</a></b> (Real Survey Jobs)
+* <b><a href="https://5f0d1cz4l95mesc-jehcy4x-eu.hop.clickbank.net/?cbpage=onlineworkshop&tid=SE">Setup Passive Income</a></b> (Best for Long Term)
+* <b><a href="https://2c94ei7bo82obw58vegixgem1g.hop.clickbank.net/?tid=SE">Affiliate Bot That Earns You Money</a></b> (2,600 Sold, Very Trusted)
 
 ### For United States Citizens:
 * <b><a href="https://www.mb38.com/lnk.asp?o=2871&c=918277&a=383461&k=61CE853338549FFCA09749E1D71621E6&l=2202&s1=SE">Panda Research</a></b> ($5 to $75 Per Survey)
