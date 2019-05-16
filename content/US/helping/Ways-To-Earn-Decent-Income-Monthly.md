@@ -4,7 +4,7 @@ description: "This is where you will find the honest ways to make money online. 
 date: 2019-05-14T15:39:23+08:00
 draft: false
 tags: ["Helping", "US"]
-image: "https://www.successeverytime.com/thumbnails/SurveyVoices.png"
+image: "https://www.successeverytime.com/thumbnails/quickcash.png"
 author: "Yenny"
 permalink: Ways-To-Earn-Decent-Income-Monthly
 category: Helping
