@@ -16,7 +16,7 @@ keywords:
 - money lucky draw
 - lottery
 - cash giveaway
-- jackpot of $150,000 dollar
+- jackpot of $150,000 dollars
 ---
 
 My all recommendations to start making decent cash online, the easiest ways to make a living. I've personally tested these methods.
