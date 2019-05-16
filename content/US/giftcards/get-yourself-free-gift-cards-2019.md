@@ -25,6 +25,8 @@ keywords:
 
 Season 9 is here but if you do not have v-bucks then you surely won't be happy! However, we will help you so don't you worry.
 
+ {{< TextAds >}}
+
 <!--more-->
 
 ## Fortnite V-Bucks Giveaway (US Only)
@@ -45,7 +47,7 @@ Season 9 is here but if you do not have v-bucks then you surely won't be happy! 
  2. Age of 18+.
  3. <b><a href="http://bit.ly/2WxikTp">Click here</a></b> to enter.  
 
- {{< TextAds >}}
+ {{< TextAds2 >}}
 
  Enjoy yourself in Season 9! Bookmark our website to get the chance to win more giveaways, sweeptakes and luckydraws!
 

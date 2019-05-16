@@ -40,6 +40,7 @@ My all recommendations to start making decent cash online, the easiest ways to m
 * <b><a href="https://www.mb103.com/lnk.asp?o=15647&c=918277&a=383461&k=4F0E3AAD7CA61A4C7B19E2D64509628D&l=16862&s1=SE">Complete Surveys, Earn</a></b> ($20 Bonus Opportunity)
 * <b><a href="https://www.mb38.com/lnk.asp?o=2871&c=918277&a=383461&k=61CE853338549FFCA09749E1D71621E6&l=2202&s1=SE">Get Paid To Try</a></b> ($20 Bonus Opportunity)
 
+ {{< TextAds2 >}}
 
 It's great that you are going to get started and if this really helped you out then please don't forget to forward this to your friends and family to help them make easy money as well. 👍🏻🙇‍♂️
 

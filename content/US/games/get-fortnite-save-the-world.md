@@ -28,6 +28,8 @@ keywords:
 
 Save The World mode is a really fun mode in Fortnite but the drawback is that it isn't free! However, we are giving it away to few people.
 
+ {{< TextAds >}}
+
 <!--more-->
 
 ## Fortnite Save The World Giveaway (US Only)
@@ -48,7 +50,7 @@ Save The World mode is a really fun mode in Fortnite but the drawback is that it
  2. Age of 18+.
  3. <b><a href="http://bit.ly/2VfuIpq">Click here</a></b> to enter.  
 
- {{< TextAds >}}
+ {{< TextAds2 >}}
 
  Enjoy yourself in Save The World! Bookmark our website to get the chance to win more giveaways, sweeptakes and luckydraws!
 

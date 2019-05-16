@@ -20,6 +20,8 @@ keywords:
 
 If you love to play video games then you know PS4 is a top-selling console and you want it! Therefore, here's your chance to win yourself a PS4 PRO.
 
+ {{< TextAds >}}
+
 <!--more-->
 
 ## PS4 PRO Giveaway (US Only)
@@ -40,7 +42,7 @@ If you love to play video games then you know PS4 is a top-selling console and y
  2. Age of 18+.
  3. <b><a href="https://www.mb103.com/lnk.asp?o=11298&c=918277&a=383461&k=C8E2663D28AA2580A4CA505B71D861DE&l=11384&s1=SE">Click here</a></b> to enter.  
 
- {{< TextAds >}}
+ {{< TextAds2 >}}
 
  Goodluck! Bookmark our website to get the chance to win more giveaways, sweeptakes and luckydraws!
 

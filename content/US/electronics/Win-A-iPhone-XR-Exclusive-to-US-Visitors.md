@@ -21,6 +21,8 @@ keywords:
 
 Looking to purchase that expensive great looking iPhone XR? Well, why not try your luck to actually win one for free!
 
+ {{< TextAds >}}
+
 <!--more-->
 
 ## iPhone XR Giveaway (US Only)
@@ -41,7 +43,7 @@ Looking to purchase that expensive great looking iPhone XR? Well, why not try yo
  2. Age of 18+.
  3. <b><a href="http://bit.ly/2YiiNci">Click here</a></b> to enter.  
 
- {{< TextAds >}}
+ {{< TextAds2 >}}
 
  Goodluck! Bookmark our website to get the chance to win more giveaways, sweeptakes and luckydraws!
 
