@@ -31,7 +31,7 @@ Season 9 is here but if you do not have v-bucks then you surely won't be happy! 
 
 {{< figure
     src="https://www.successeverytime.com/thumbnails/13,500.png"
-    link="https://www.mb102.com/lnk.asp?o=15700&c=918277&a=383461&k=B621A740F507B0A80E719FF6DC0C491C&l=16641&s1=SE"
+    link="http://bit.ly/2WxikTp"
     alt="Fortnite V-Bucks Giveaways are always happening."
     title="Enter To Collect Yours"
     attr="Source: © Success Everytime"
@@ -43,7 +43,7 @@ Season 9 is here but if you do not have v-bucks then you surely won't be happy! 
 
  1. Please VERIFY that you are a <b>US</b> Citizen.
  2. Age of 18+.
- 3. <b><a href="https://www.mb102.com/lnk.asp?o=15700&c=918277&a=383461&k=B621A740F507B0A80E719FF6DC0C491C&l=16641&s1=SE">Click here</a></b> to enter.  
+ 3. <b><a href="http://bit.ly/2WxikTp">Click here</a></b> to enter.  
 
  {{< TextAds >}}
 

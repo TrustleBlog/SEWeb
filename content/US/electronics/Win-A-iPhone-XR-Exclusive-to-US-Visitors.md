@@ -27,7 +27,7 @@ Looking to purchase that expensive great looking iPhone XR? Well, why not try yo
 
 {{< figure
     src="https://www.successeverytime.com/thumbnails/iphoneXRUSA.png"
-    link="https://www.mb103.com/lnk.asp?o=14901&c=918277&a=383461&k=B4E7ADF3B8EC3DF91376D03E45267B49&l=15840&s1=SE"
+    link="http://bit.ly/2YiiNci"
     alt="iPhone XR Giveaways are always happening."
     title="Enter To Collect Yours"
     attr="Source: © Success Everytime"
@@ -39,7 +39,7 @@ Looking to purchase that expensive great looking iPhone XR? Well, why not try yo
 
  1. Please VERIFY that you are a <b>US</b> Citizen.
  2. Age of 18+.
- 3. <b><a href="https://www.mb103.com/lnk.asp?o=14901&c=918277&a=383461&k=B4E7ADF3B8EC3DF91376D03E45267B49&l=15840&s1=SE">Click here</a></b> to enter.  
+ 3. <b><a href="http://bit.ly/2YiiNci">Click here</a></b> to enter.  
 
  {{< TextAds >}}
 
