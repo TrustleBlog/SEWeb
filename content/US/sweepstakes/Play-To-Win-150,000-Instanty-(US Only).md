@@ -1,5 +1,5 @@
 ---
-title: "Play for a Chance to Win $150,000 in Cash Instanty"
+title: "Play for a Chance to Win $150,000 in Cash Instantly & Free Fortnite V Bucks"
 description: "Do you have a minute? This is once a lifetime opportunity to win yourself hundreds of dollars to purchase your dream item or just to enjoy."
 date: 2019-05-19T15:39:23+08:00
 draft: false
@@ -25,7 +25,7 @@ Do you have a minute? This is once a lifetime opportunity to win yourself hundre
 
 <!--more-->
 
-### Test Your Luck & You Might Win $150,000 in Cash Instantly (US Only)
+### Test Your Luck & You Might Win $150,000 in Cash Instantly to purchase V Bucks!(US Only)
 
 {{< figure
     src="https://www.successeverytime.com/thumbnails/150KCash.png"
