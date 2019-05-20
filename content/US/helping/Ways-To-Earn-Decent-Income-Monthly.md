@@ -19,6 +19,14 @@ keywords:
 - jackpot of $150,000 dollars
 ---
 
+{{< figure
+    src="https://www.successeverytime.com/thumbnails/QC.png"
+    link="https://www.mb01.com/lnk.asp?o=10547&c=918277&a=383461&k=2D6FD9CDF7A363E89F5C8ED9CEA3AF61&l=10409&s1=SE"
+    alt="Earn $800 Every Month"
+>}}
+
+<p></p>
+
 My all recommendations to start making decent cash online, the easiest ways to make a living. I've personally tested these methods.
 
 <!--more-->
