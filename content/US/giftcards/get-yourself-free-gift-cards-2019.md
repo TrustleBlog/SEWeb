@@ -1,14 +1,14 @@
 ---
-title: "Chance to Collect 13,500 Fortnite V-Bucks for Season 9 (US Only)"
-description: "Season 9 is out and that means you need V-Bucks to buy the Battle Pass or the new Skins, so here's your chance to get one!"
-date: 2019-05-09T14:39:23+08:00
+title: "Chance to Collect 13,500 Fortnite V-Bucks for Season 10 (US Only)"
+description: "Season 10 is almost out and that means you need V-Bucks to buy the Battle Pass or the new Skins, so here's your chance to get one!"
+date: 2019-07-25T14:39:23+08:00
 draft: false
 tags: ["Fortnite", "Sweeptakes", "US"]
 image: "https://www.successeverytime.com/thumbnails/13,500.png"
 author: "Yenny"
 permalink: Chance-to-Collect-Fortnite-V-Bucks-for-Season-9
 category: Fortnite
-readingtime: 3 Minutes
+readingtime: 1 Minute
 keywords:
 - fortnite v bucks
 - fortnight game
@@ -23,7 +23,7 @@ keywords:
 - ikonik skin giveaway
 ---
 
-Season 9 is here but if you do not have v-bucks then you surely won't be happy! However, we will help you so don't you worry.
+Season 10 is almost here but if you do not have v-bucks then you surely won't be happy! However, we will help you so don't you worry.
 
  {{< TextAds >}}
 
@@ -33,7 +33,7 @@ Season 9 is here but if you do not have v-bucks then you surely won't be happy! 
 
 {{< figure
     src="https://www.successeverytime.com/thumbnails/13,500.png"
-    link="http://bit.ly/2WxikTp"
+    link="https://www.mb102.com/lnk.asp?o=15700&c=918277&a=383461&k=B621A740F507B0A80E719FF6DC0C491C&l=16641&s1=July"
     alt="Fortnite V-Bucks Giveaways are always happening."
     title="Enter To Collect Yours"
     attr="Source: © Success Everytime"
@@ -45,11 +45,11 @@ Season 9 is here but if you do not have v-bucks then you surely won't be happy! 
 
  1. Please VERIFY that you are a <b>US</b> Citizen.
  2. Age of 18+.
- 3. <b><a href="http://bit.ly/2WxikTp">Click here</a></b> to enter.  
+ 3. <b><a href="https://www.mb102.com/lnk.asp?o=15700&c=918277&a=383461&k=B621A740F507B0A80E719FF6DC0C491C&l=16641&s1=July">Click here</a></b> to enter.  
 
  {{< TextAds2 >}}
 
- Enjoy yourself in Season 9! Bookmark our website to get the chance to win more giveaways, sweeptakes and luckydraws!
+ Enjoy yourself in Season 10! Bookmark our website to get the chance to win more giveaways, sweeptakes and luckydraws!
 
  <hr>
 
