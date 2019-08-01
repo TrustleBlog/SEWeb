@@ -1,6 +1,6 @@
 ---
 title: "Chance to Collect 13,500 Fortnite V-Bucks for Season 10 (US Only)"
-description: "Season 10 is almost out and that means you need V-Bucks to buy the Battle Pass or the new Skins, so here's your chance to get one!"
+description: "Season 10 is out and that means you need V-Bucks to buy the Battle Pass or the new Skins, so here's your chance to get one!"
 date: 2019-07-25T14:39:23+08:00
 draft: false
 tags: ["Fortnite", "Sweeptakes", "US"]
@@ -23,7 +23,7 @@ keywords:
 - ikonik skin giveaway
 ---
 
-Season 10 is almost here but if you do not have v-bucks then you surely won't be happy! However, we will help you so don't you worry.
+Season 10 is here but if you do not have v-bucks then you surely won't be happy! However, we will help you so don't you worry.
 
  {{< TextAds >}}
 
