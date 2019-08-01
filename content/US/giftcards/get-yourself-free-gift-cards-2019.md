@@ -36,7 +36,6 @@ Season 10 is here but if you do not have v-bucks then you surely won't be happy!
     link="https://www.mb102.com/lnk.asp?o=15700&c=918277&a=383461&k=B621A740F507B0A80E719FF6DC0C491C&l=16641&s1=July"
     alt="Fortnite V-Bucks Giveaways are always happening."
     title="Enter To Collect Yours"
-    attr="Source: © Success Everytime"
     attrlink="https://successeverytime.com/tags/fortnite"
 >}}
 
